@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">boogie</string>
+    <string name="start">START</string>
+    <string name="gameTitle">boogie</string>
 </resources>
